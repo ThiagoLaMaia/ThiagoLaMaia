@@ -28,7 +28,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
  
  👨‍💻 Dê uma olhada no meu [CV]() ;
 
- ⚡ Curiosidade sobre mim: **tenho muitos hobbys entre eles sou meliponicultor (crio abelhas) e sou velejador nas horas vagas.**.
+ ⚡ Curiosidade sobre mim: **tenho muitos hobbys entre eles sou meliponicultor (crio abelhas) e sou velejador nas horas vagas**.
 
 <!--
 <h3 align="left">Entre em contato comigo:</h3>
