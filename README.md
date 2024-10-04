@@ -18,7 +18,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
  
  🌱 Eu estou procurando aprender mais sobre **Programacão para estudo de dados e forecast em Séries Temporais e Machine Learning**;
 
- 👯 Eu procuro colaborar em **Projetos de Ciência de dados voltados para forecast para mercado financeiro e derivativos**;
+ 👯 Eu procuro colaborar em **Projetos de Ciência de Dados voltados para forecast para mercado financeiro e derivativos**;
  
  🔭 Veja meu [portfólio]();
 
