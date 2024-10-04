@@ -1,6 +1,6 @@
 <!--
 <p align="center">
-  <img src="https://github.com/BrnCode/BrnCode/raw/main/assets/github-header.gif" alt="Oi, eu sou o Bruno">
+  <img src="https://github.com/BrnCode/BrnCode/raw/main/assets/github-header.gif" alt="Oi, eu sou o Thiago">
 </p>
 -->
 <!--
