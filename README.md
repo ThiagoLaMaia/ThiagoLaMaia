@@ -16,7 +16,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
  📝 Sou Pesquisador Quantitativo com formação em Economia e Mestrado em Economia Aplicada pela Unesp/FCLAR.
  
- 🌱 Eu estou procurando aprender mais sobre **Programacão para estudo de dados e forecast em Séries Temporais e Machine Learning**;
+ 🌱 Eu estou procurando aprender mais sobre **Programacão para estudo de dados e forecast em Séries Temporais usando Machine Learning e Deep Learning**;
 
  👯 Eu procuro colaborar em **Projetos de Ciência de Dados voltados para forecast de indices do mercado financeiro e derivativos**;
  
