@@ -14,7 +14,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 -->
   Olá, eu sou o Thiago.
 
- 📝 Sou Economista Quantitativo e Mestre em Economia Aplicada pela Unesp/FCLAR.
+ 📝 Sou Pesquisador Quantitativo com formação em Economia e Mestrado em Economia Aplicada pela Unesp/FCLAR.
  
  🌱 Eu estou procurando aprender mais sobre **Programacão para estudo de dados e forecast em Séries Temporais e Machine Learning**;
 
